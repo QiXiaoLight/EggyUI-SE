@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HelpContent>
+	<!-- 在此处放置帮助内容 -->
+	<Category Text="如何修改Rainmeter桌面小组件的用户名？">
+		<Item Text="进入文档\Rainmeter\Skins\EggyUI\Home，修改文件夹内的home.ini文件，不用担心找不到在哪里改，home.ini里有对应的注释。"/>
+	</Category>
+	<Category Text="如何修改Rainmeter桌面小工具尺寸？">
+		<Item Text="和修改用户名一样，找到对应组件的ini，修改“W”和“H”（分别对应长和宽，一定要等比例缩放哦！）"/>
+	</Category>
+	<Category Text="我修改了Rainmeter桌面小组件的皮肤文件，但修改似乎并未生效？">
+		<Item Text="进入Rainmeter管理器，然后点击“刷新全部（或Refresh All）”，或重启Rainmeter。"/>
+	</Category>
+	<Category Text="EggyUI-SE是什么性质的项目？">
+		<Item Text="EggyUI-SE是EggyUI生态下的安全美化分支，采用不修改系统核心文件的方式实现蛋仔派对风格桌面美化。所有素材均为原创重制或合法获取，不含任何游戏解包内容。"/>
+	</Category>
+	<Category Text="可以将EggyUI-SE用于商业用途吗？">
+		<Item Text="不可以。本项目严格禁止任何商业用途，包括付费销售、捆绑商业软件、广告盈利或商业服务集成。仅限个人免费使用。"/>
+	</Category>
+	<Category Text="EggyUI-SE的技术特点是什么？">
+		<Item Text="基于.NET 6开发，支持高DPI显示；"/>
+		<Item Text="所有美化内容均不修改系统核心文件，安装与卸载不影响系统稳定性；"/>
+		<Item Text="兼容Windows 10/11，推荐在Windows 11 21H2及以上版本使用。"/>
+	</Category>
+	<Category Text="EggyUI-SE与EggyUI其他分支的关系？">
+		<Item Text="EggyUI-SE与EggyUI-RE、OpenEggyUI同属EggyUI生态，各自定位不同：SE专注于安全美化，RE延续传统美化包路线，OpenEggyUI提供模块化组件。"/>
+	</Category>
+	<Category Text="作者信息">
+		<Item Text="作者：EggyUI-SE 项目组"/>
+		<Item Text="项目性质：非盈利性粉丝创作，禁止商业用途"/>
+		<Item Text="素材声明：所有内容均为原创重制或合法获取"/>
+		<Item Text="定位：不修改系统核心文件的安全美化包"/>
+		<Item Text="欢迎加入EggyUI-SE交流群：1062926070"/>
+	</Category>
+</HelpContent>
