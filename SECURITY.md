@@ -1,8 +1,6 @@
 # EggyUI 安全策略
 
 ## 支持版本
-> [!NOTE]
-> 由于栖小光已退出 EggyUI 项目组，这一部分的开发已经停止。如需获取后续更新，请移步至 [EggyUI-RE](https://github.com/CN-RBL/EggyUI-RE) 项目。
 
 > [!CAUTION]
 > EggyUI 的旧版本已不受支持，请使用新版 EggyUI。旧版本的 EggyUI 可能存在安全风险。
@@ -21,7 +19,7 @@
 
 如果你发现 EggyUI 存在漏洞，请通过以下方式联系我们：
 - **提交 Issue**
-- **GitHub**：[QiXiaoLight](https://github.com/QiXiaoLight)
-- **哔哩哔哩**：[栖小光](https://space.bilibili.com/3690976851790561)、[WinNT-DWM-Sharp](https://space.bilibili.com/3706958846626741)
+- **GitHub**：[EggyUI-SE](https://github.com/EggyUI-SE)
+- **哔哩哔哩**：[Pidan-Eggy](https://space.bilibili.com/3493144343612119)
 - **QQ 交流群**：[EggyUI交流群](https://qm.qq.com/q/DzX7VXZNMQ)
 - **腾讯频道**：[EggyUISE](https://pd.qq.com/s/5ryka2vhl)
