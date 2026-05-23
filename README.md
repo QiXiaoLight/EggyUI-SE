@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ![EggyUI 宣传图](https://eggyuihub.wordpress.com/wp-content/uploads/2026/04/eggyui-poster.jpg)
 
