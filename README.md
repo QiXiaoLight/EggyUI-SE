@@ -1,10 +1,10 @@
-<div align="center">
+<div style="text-align: center;">
 
 ![EggyUI 宣传图](https://eggyuihub.wordpress.com/wp-content/uploads/2026/04/eggyui-poster.jpg)
 
-# EggyUI
+# EggyUI-SE
 
-![Last Commit](https://img.shields.io/github/last-commit/QiXiaoLight/EggyUI?label=最近提交)
+![Last Commit](https://img.shields.io/github/last-commit/EggyUI-SE/EggyUI-SE?label=最近提交)
 ![Windows Support](https://img.shields.io/badge/Windows-Supported-blue)
 [![QQ 群](https://img.shields.io/badge/QQ群-1090050382-blue)](https://qm.qq.com/q/DzX7VXZNMQ)
 [![License](https://img.shields.io/badge/代码许可证-GPL%20v3-yellow)](LICENSE.txt)
@@ -13,12 +13,9 @@
 
 </div>
 
-> [!NOTE]
-> 由于栖小光已退出 EggyUI 项目组，这部分的开发已经停止。如需获取后续更新，请移步至 [EggyUI-RE](https://github.com/CN-RBL/EggyUI-RE) 项目。
-
 ## 项目简介
 
-EggyUI 是 EggyUI 生态的主项目，专注于以**不修改系统核心文件**的方式实现蛋仔派对风格的 Windows 桌面美化。本项目由新开发团队于 2026 年 4 月 11 日以 EggyUI-SE 为基础变基而来，原仓库已归档为 [EggyUI-Legacy](https://github.com/SYSTEM-LIGHT/EggyUI-Legacy)。
+EggyUI-SE 是 EggyUI 分支项目，专注于以**不修改系统核心文件**的方式实现蛋仔派对风格的 Windows 桌面美化。原 EggyUI 项目仓库已归档为 [EggyUI-Legacy](https://github.com/SYSTEM-LIGHT/EggyUI-Legacy)。
 
 项目在核心设计上做出了重要调整：所有美化内容均通过主题包、壁纸、音效等安全方式部署，而非替换系统关键文件（如 `imageres.dll.mun`）。
 
@@ -31,7 +28,7 @@ EggyUI 以**独立安装包**的形式在已有 Windows 系统上部署，让用
 | Rainmeter 小组件 | Windows 10 1607 ~ Windows 11 |
 
 > [!TIP]
-> EggyUI 的扩展美化组件可从 [EggyUI Hub](https://eggyuihub.wordpress.com/) 下载，建议搭配这些组件使用以获得最佳体验。
+> EggyUI-SE 的扩展美化组件可从 [EggyUI Hub](https://eggyuihub.wordpress.com/) 下载，建议搭配这些组件使用以获得最佳体验。
 
 ## 历史背景
 
@@ -41,11 +38,11 @@ EggyUI 最初由 [BSOD-MEMZ](https://github.com/BSOD-MEMZ) 于 2024 年 7 月发
 - **团队治理混乱**：项目缺乏有效的决策机制，关键权限集中在少数成员手中。2025 年 5 月，一名非创始成员单方面宣布“项目组解散”，引发社区混乱。创始人 BSOD-MEMZ 及核心成员均明确反对，但团队士气已遭受不可逆的损伤。
 - **开发停滞**：BSOD-MEMZ 后期已放弃项目维护，剩余开发者因内耗和资源不足难以推进。EggyUI-RE 分支虽尝试延续，但陷入技术困境（Python 打包报毒、WebView 兼容性问题、开发者不活跃），至今未能发布稳定版本。
 
-2025 年 10 月 5 日，原项目正式归档。2026 年 4 月 11 日，新开发团队以 EggyUI-SE 为基础对项目进行变基，恢复开发。
+2025 年 10 月 5 日，原项目正式归档。2026 年 3 月 21 日，EggyUI-SE 分支项目被创建，原项目的精神得到继承。
 
 ## 变基后的 EggyUI 与历史版本的区别
 
-| 维度 | 历史 EggyUI（已归档） | 当前 EggyUI（变基后） |
+| 维度 | 历史 EggyUI（已归档） | EggyUI-SE |
 |------|----------------------|----------------------|
 | 技术栈 | 易语言、.NET 8、Python 混合 | .NET 6（统一、稳定） |
 | 安装方式 | 系统镜像、无人值守安装 | 独立安装包，可选组件 |
@@ -65,7 +62,7 @@ EggyUI 最初由 [BSOD-MEMZ](https://github.com/BSOD-MEMZ) 于 2024 年 7 月发
 
 ## 本仓库的内容
 
-本仓库用于存放 EggyUI 相关组件的**源代码**，包括：
+本仓库用于存放 EggyUI-SE 相关组件的**源代码**，包括：
 
 - 主题包安装与卸载逻辑
 - 鼠标光标等资源的部署脚本
@@ -82,8 +79,8 @@ EggyUI 最初由 [BSOD-MEMZ](https://github.com/BSOD-MEMZ) 于 2024 年 7 月发
 
 ## 项目维护者联系方式
 
-- **GitHub**：[QiXiaoLight](https://github.com/QiXiaoLight)
-- **哔哩哔哩**：[栖小光](https://space.bilibili.com/3690976851790561)、[WinNT-DWM-Sharp](https://space.bilibili.com/3706958846626741)
+- **GitHub**：[EggyUI-SE](https://github.com/EggyUI-SE)
+- **哔哩哔哩**：[Pidan-Eggy](https://space.bilibili.com/3493144343612119)
 - **QQ 交流群**：[EggyUI交流群](https://qm.qq.com/q/DzX7VXZNMQ)
 - **腾讯频道**：[EggyUISE](https://pd.qq.com/s/5ryka2vhl)
 
